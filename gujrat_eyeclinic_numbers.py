@@ -3,12 +3,6 @@ Phone Number Scraper for Eye Clinics - District Gujrat
 Reads the cleaned Excel file, searches each clinic on Google Maps,
 extracts phone numbers, and saves updated Excel with Phone Number column.
 
-Requirements:
-    pip install selenium openpyxl pandas
-    chromedriver.exe must be in the same folder as this script
-
-Usage:
-    python add_phone_numbers.py
 """
 
 import time
